@@ -1,6 +1,6 @@
 ## overview
 ML Decision Tree program  use a classification algorithm(Decision Tree) to build a model from historical data of patients, and their response to different medications
-then predict the class of a unknown patient, or find a proper drug for a new patient.
+to predict the class of an unknown patient or find a proper drug for a new patient.
 
 ## Dataset
 Imagine that you are a medical researcher compiling data for a study. You have collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug c, Drug x and y.
